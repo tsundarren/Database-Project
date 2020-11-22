@@ -3,7 +3,7 @@
 The team working on this project consists of Darrenmond Chao.
 
 ## Description
-The project is an extension of an exisitng data base that lacks rating system. Using sql, the rating system will exist outside of said database but will allow users to rate both restaurants and delivery drivers.
+The project is an extension of an exisitng data base that lacks rating system. Using mysql, the rating system will exist outside of said database but will allow users to rate both restaurants and delivery drivers.
   
 ## Use Case for Rating System
 
