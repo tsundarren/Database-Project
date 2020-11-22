@@ -8,7 +8,7 @@ The project is an extension of an exisitng data base that lacks rating system. U
 ## Use Case for Rating System
 
 ## Business Rules
-- Persons have accounts in the system which hold their id, name, email, and cellphone number.
+- Persons can have accounts in the system which will hold their id, name, email, and cellphone number.
 - Locations that food can be delivered are specified via address where an food delivery drop-off point will be indicated.
 - Persons can also be drivers (delivery personnel) and all drivers are students.
 - Individual food deliveries are tied to only one person, and one restaurant. 
