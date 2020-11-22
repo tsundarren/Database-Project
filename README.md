@@ -12,7 +12,7 @@ The team working on this project consists of Darrenmond Chao.
 - Individual food deliveries are tied to only one person, and one restaurant. 
 - Food delivery's track the total price, deilivery charge, driver, delivery time, and a unique id that ties the order to an order at a specific restaurant.
 - Food providers must be approved to exist in the database.
-- The rating system will not exist in the database.
+- A rating system will allow users to view and rate both restaurants and specific delivery drivers. 
 
 ## EERD
 
