@@ -15,16 +15,16 @@ The team working on this project consists of Darrenmond Chao.
 - Food providers must be approved.
 - The rating system will not exist in the database.
 
-##EERD
+## EERD
 
-##MySQL Queries
+## MySQL Queries
 
-##Stored Procedure
+## Stored Procedure
 
-##Web/App Implementation
+## Web/App Implementation
 
-##Description of Future Work
+## Description of Future Work
 
-##MySQL dump
+## MySQL dump
 
-##PPT Video
+## PPT Video
