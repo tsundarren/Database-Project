@@ -1,5 +1,5 @@
 # Database-Project
-## Introduction\
+## Introduction
 The team working on this project consists of Darrenmond Chao.
   
 ## Use Case for Rating System
