@@ -8,7 +8,10 @@ The project is an extension of an exisitng data base that lacks rating system. U
 ## Use Case for Rating System
 
 ## Business Rules
-- Persons can have accounts in the system which will hold their id, name, email, and cellphone number.
+- There are three account types in the database of which all account types will hold their id, name, email, and cellphone number.
+- Persons that are faculty must include their title, highest earned degree, and college degree.
+- Persons that are staff must include their position and admin status.
+- Persons that are students must include their graduating year, major plus type (undergraduate, graduate)
 - Locations that food can be delivered are specified via address where an food delivery drop-off point will be indicated.
 - Persons can also be drivers (delivery personnel) and all drivers are students.
 - Individual food deliveries are tied to only one person, and one restaurant. 
