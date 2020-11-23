@@ -6,6 +6,7 @@ The team working on this project consists of Darrenmond Chao.
 The project is an extension of an exisitng data base that lacks rating system. Using mysql, the rating system will exist outside of said database but will allow users to rate both restaurants and delivery drivers.
   
 ## Use Case for Rating System
+![Use Case](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/Use%20Case.png)
 
 ## Business Rules
 - There are three account types in the database of which all account types will hold their id, name, email, and cellphone number.
