@@ -20,6 +20,10 @@ The project is an extension of an exisitng data base that lacks rating system. U
 - A rating system will allow users to view and rate both restaurants and specific delivery drivers. 
 
 ## EERD
+![EERD](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/EERD.png)
+
+## Data Dictionary
+![Data Dictionary](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/Data%20Dictionary.png)
 
 ## MySQL Queries
 
