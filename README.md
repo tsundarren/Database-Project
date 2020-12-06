@@ -36,5 +36,5 @@ The project is an extension of an exisitng data base that lacks rating system. U
 ## Description of Future Work
 
 ## MySQL dump
-
+[MySQL Dump](https://github.com/tsundarren/Database-Project/blob/main/data/campus_eats_db.sql)
 ## PPT Video
