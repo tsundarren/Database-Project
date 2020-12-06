@@ -32,9 +32,7 @@ The project is an extension of an exisitng data base that lacks rating system. U
 
 
 ## MySQL Queries
-Driver Query
 ![Driver](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/Driver%20Query.png)
-Restaurant Query
 ![Restaurant](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/Restaurant%20Query.png)
 ## Stored Procedure
 
