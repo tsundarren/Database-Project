@@ -24,7 +24,12 @@ The project is an extension of an exisitng data base that lacks rating system. U
 ![EERD](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/EERD.png)
 
 ## Data Dictionary
-![Data Dictionary](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/Data%20Dictionary.png)
+<details>
+  <summary>Data Dictionary</summary>
+
+  ![Data Dictionary](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/Data%20Dictionary.png)
+</details>
+
 
 ## MySQL Queries
 ![Driver](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/Driver%20Query.png)
