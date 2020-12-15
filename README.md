@@ -37,8 +37,6 @@ The project is an extension of an exisitng data base that lacks rating system. U
 ![Restaurant](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/Restaurant%20Query.png)
 ## Stored Procedure
 
-## Web/App Implementation
-
 ## Description of Future Work
 
 ## MySQL dump
