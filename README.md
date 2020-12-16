@@ -38,6 +38,7 @@ The project is an extension of an existing data base that lacks rating system. U
 
 ## Stored Procedure
 [Update Driver Ratings](https://github.com/tsundarren/Database-Project/blob/main/data/UpdateDriverRatings.sql)
+This stored procedure will update the ratings of each individual food delivery driver to the average of their total ratings.
 
 ## Use Case Queries
 ![Nested Query](https://github.com/tsundarren/Database-Project/blob/main/img/Nested%20Query.png)
