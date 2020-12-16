@@ -45,6 +45,7 @@ The project is an extension of an existing data base that lacks rating system. U
 [Nested Query](https://github.com/tsundarren/Database-Project/blob/main/data/Nested%20Query.sql)
 This nested query shows the data for food delivery drivers  whose ratings are less than the average ratings of all drivers. This can be used by the administrators to show which drivers are slacking, or unfit for the job.
 
+<hr>
 
 ![Sorted Query](https://github.com/tsundarren/Database-Project/blob/main/img/Sorted%20Query.png)
 
