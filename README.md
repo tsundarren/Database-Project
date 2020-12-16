@@ -52,6 +52,9 @@ This nested query shows the data for food delivery drivers  whose ratings are le
 [Sorted Query](https://github.com/tsundarren/Database-Project/blob/main/data/Sorted%20Query.sql)
 This sorted query uses the WHERE and ORDER BY statements to conditionally show only restaurants whose ratings are higher than 5 and sort them ascendingly by their rating.
 
+## Query Optimization
+![Explain](https://github.com/tsundarren/Database-Project/blob/main/img/Nested%20Query%20Optimization.png)
+
 ## MySQL dump
 [MySQL Dump](https://github.com/tsundarren/Database-Project/blob/main/data/campus_eats_db.sql)
 
