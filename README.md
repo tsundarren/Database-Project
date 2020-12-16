@@ -69,3 +69,4 @@ This sorted query uses the WHERE and ORDER BY statements to conditionally show o
 [MySQL Dump](https://github.com/tsundarren/Database-Project/blob/main/data/campus_eats_db.sql)
 
 ## PPT Video
+[PPT Video](https://github.com/tsundarren/Database-Project/blob/main/video/Campus%20Eats.mp4)
