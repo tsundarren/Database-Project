@@ -35,10 +35,22 @@ The project is an extension of an exisitng data base that lacks rating system. U
 ![Driver](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/Driver%20Query.png)
 
 ![Restaurant](https://raw.githubusercontent.com/tsundarren/Database-Project/main/img/Restaurant%20Query.png)
-## Stored Procedure
 
-## Description of Future Work
+## Stored Procedure
+[Update Driver Ratings](https://github.com/tsundarren/Database-Project/blob/main/data/UpdateDriverRatings.sql)
+
+## Use Case Queries
+![Nested Query](https://github.com/tsundarren/Database-Project/blob/main/img/Nested%20Query.png)
+
+This nested query shows the data for food delivery drivers  whose ratings are less than the average ratings of all drivers. This can be used by the administrators to show which drivers are slacking, or unfit for the job.
+
+
+
+![Sorted Query](https://github.com/tsundarren/Database-Project/blob/main/img/Sorted%20Query.png)
+
+This sorted query uses the WHERE and ORDER BY statements to conditionally show only restaurants whose ratings are higher than 5 and sort them ascendingly by their rating.
 
 ## MySQL dump
 [MySQL Dump](https://github.com/tsundarren/Database-Project/blob/main/data/campus_eats_db.sql)
+
 ## PPT Video
